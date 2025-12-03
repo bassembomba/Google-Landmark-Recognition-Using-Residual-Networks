@@ -54,6 +54,9 @@ The project includes:
 - Class distribution analysis
 - Histogram visualization
 - Random sample visualization
+<img width="400" alt="histogram" src="https://github.com/user-attachments/assets/202ee05c-4756-479a-95d9-e488ac818d2c" />
+<img width="423"  alt="matrix4" src="https://github.com/user-attachments/assets/1d676cb9-8c89-4ca5-9f41-13cffac9157c" />
+
 
 ---
 
@@ -73,6 +76,7 @@ This project uses **Transfer Learning with ResNet50**:
 - Dense (4096 units, ReLU)  
 - Dropout (0.2)  
 - Final Dense Layer (Softmax, 300 classes)
+<img width="562" alt="model architecture" src="https://github.com/user-attachments/assets/563ed41e-5544-47e7-9091-24c910512acb" />
 
 ---
 
@@ -118,6 +122,8 @@ The project includes:
 ✅ Visual inspection of:
 - Perfect predictions
 - Low-confidence predictions
+<img width="400" alt="finalexperiment acc" src="https://github.com/user-attachments/assets/e09b747e-fbf5-4071-991c-ac0a86612e7b" />
+<img width="400" alt="finalexperiment loss" src="https://github.com/user-attachments/assets/beb83df3-3297-48ac-9ab8-4f14d3f7e07b" />
 
 ---
 
@@ -128,6 +134,8 @@ The model visualizes:
 - ✅ Correct predictions with confidence score
 - ✅ Poor predictions (confidence < 10%)
 - ✅ Side-by-side comparison of similar landmark images
+
+<img width="902" alt="correct prediction" src="https://github.com/user-attachments/assets/ccfc87c9-3d0e-48e1-9d44-c68caa24242d" />
 
 This allows deep inspection of model behavior.
 
